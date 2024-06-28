@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kruti Newalkar</h1>
-# 💫 About Me:
+**💫 About Me:**
 🔭 I’m currently working on - Developing my knowledge and leveraging my skills ✨<br>👯 I’m looking to collaborate on - Any project that can provide me with a learning opportunity! 🎓<br>🤝 I’m looking for help with -  Networking with people who share my interests and can work with me. 🌐<br>🌱 I’m currently learning - New tech stacks and domains that interest me! 💻<br>💬 Ask me about - something non-technical 😅<br>⚡ Fun fact - I hate pigeons. I'll do a Naruto run when I see one sitting on my window! 🏃🏻‍♀️💨
 
 
