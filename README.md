@@ -1,5 +1,5 @@
+<img width=500 src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 <h1 align="center">Hi 👋, I'm Kruti Newalkar</h1>
-<img width=500 src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F16093268-Desktop-Animation&psig=AOvVaw17bjtWtShx6IRJnQCmGkiU&ust=1721121152506000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOjK047aqIcDFQAAAAAdAAAAABAE">
 
 # 💫 About Me:
 🔭 I’m currently working on - Developing my knowledge and leveraging my skills ✨<br>👯 I’m looking to collaborate on - Any project that can provide me with a learning opportunity! 🎓<br>🤝 I’m looking for help with -  Networking with people who share my interests and can work with me. 🌐<br>🌱 I’m currently learning - New tech stacks and domains that interest me! 💻<br>💬 Ask me about - something non-technical 😅<br>⚡ Fun fact - I hate pigeons. I'll do a Naruto run when I see one sitting on my window! 🏃🏻‍♀️💨
