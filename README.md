@@ -16,7 +16,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=itskrutinewalkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # ✨ LeetCode Badges:
-<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="badge gif" class="z-modal-6 h-[120px] w-[120px]">
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="badge gif" class="z-modal-6 h-[100px] w-[100px]">
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=itskrutinewalkar&limit=5&theme=dark&combine_all_yearly_contributions=true)
