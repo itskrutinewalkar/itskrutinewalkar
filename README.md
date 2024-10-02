@@ -4,6 +4,7 @@
 🔭 I’m currently working on - Developing my knowledge and leveraging my skills ✨<br>👯 I’m looking to collaborate on - Any project that can provide me with a learning opportunity! 🎓<br>🤝 I’m looking for help with -  Networking with people who share my interests and can work with me. 🌐<br>🌱 I’m currently learning - New tech stacks and domains that interest me! 💻<br>💬 Ask me about - something non-technical 😅<br>⚡ Fun fact - I hate pigeons. I'll do a Naruto run when I see one sitting on my window! 🏃🏻‍♀️💨
 
 <img width=500 src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif">
 
 # 👩‍💻 My Website:
 ✨ Check out my portfolio and email me if you are interested in working with me on a new project! My inbox is always open to creativity and collaboration! 
